@@ -1,0 +1,7 @@
+C:\Users\diak\Desktop\Lakatos Botond\Béla\eutazas\eutazas\bin\Debug\eutazas.exe.config
+C:\Users\diak\Desktop\Lakatos Botond\Béla\eutazas\eutazas\bin\Debug\eutazas.exe
+C:\Users\diak\Desktop\Lakatos Botond\Béla\eutazas\eutazas\bin\Debug\eutazas.pdb
+C:\Users\diak\Desktop\Lakatos Botond\Béla\eutazas\eutazas\obj\Debug\eutazas.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\Lakatos Botond\Béla\eutazas\eutazas\obj\Debug\eutazas.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\Lakatos Botond\Béla\eutazas\eutazas\obj\Debug\eutazas.exe
+C:\Users\diak\Desktop\Lakatos Botond\Béla\eutazas\eutazas\obj\Debug\eutazas.pdb
